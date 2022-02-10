@@ -1,0 +1,28 @@
+#取消忽略.c、.h和.A51文件
+!*.c
+!*.h
+!*.s
+# #忽略.gitignore文件
+# .gitignore
+#忽略这两个文件夹下的所有文件
+Listing/
+Output/
+Project/
+#忽略全部后缀为这些的文件
+*.lst
+*.m51
+*.obj
+*.zxp14
+*.uvproj
+*.uvopt
+*.__i
+*.htm
+*.lnp
+*.hex
+*.o
+*.d
+*.sct
+*.Bak
+*.dep
+*.crf
+~$*.*
